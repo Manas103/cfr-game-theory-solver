@@ -1,0 +1,15 @@
+=== pytest ===
+============================= test session starts =============================
+platform win32 -- Python 3.12.10, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\cfr-game-theory-solver\auction\venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow
+configfile: pytest.ini
+collecting ... collected 5 items
+
+test_auction.py::test_symmetric_textbook_model_has_zero_equilibrium_profit PASSED [ 20%]
+test_auction.py::test_more_precise_focal_bidder_earns_positive_equilibrium_profit PASSED [ 40%]
+test_auction.py::test_naive_bidding_costs_money_relative_to_equilibrium PASSED [ 60%]
+test_auction.py::test_more_competitors_increase_the_naive_shortfall PASSED [ 80%]
+test_auction.py::test_result_is_a_finite_real_number PASSED              [100%]
+
+============================== 5 passed in 8.45s ==============================

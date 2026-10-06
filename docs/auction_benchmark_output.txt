@@ -1,0 +1,12 @@
+bidders=5 eps_others=50.0 eps_focal=25.0 v_range=1000.0 trials=5000000 seed=11
+equilibrium-like expected profit (bidder 0): 1.5527
+naive-bid (b=signal) expected profit (bidder 0, others at equilibrium): -4.4106
+fraction of equilibrium expected value surrendered by naive bidding: 3.8406
+bidders=3 eps_others=50.0 eps_focal=25.0 v_range=1000.0 trials=5000000 seed=11
+equilibrium-like expected profit (bidder 0): 2.5375
+naive-bid (b=signal) expected profit (bidder 0, others at equilibrium): -3.1253
+fraction of equilibrium expected value surrendered by naive bidding: 2.2316
+bidders=9 eps_others=50.0 eps_focal=25.0 v_range=1000.0 trials=5000000 seed=11
+equilibrium-like expected profit (bidder 0): 0.6218
+naive-bid (b=signal) expected profit (bidder 0, others at equilibrium): -5.3970
+fraction of equilibrium expected value surrendered by naive bidding: 9.6792

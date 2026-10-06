@@ -1,0 +1,5 @@
+=== ASan+UBSan: kuhn_test ===
+kuhn_test: 22 checks, 0 failures
+
+=== ASan+UBSan: run_cfr --iterations 200000 (smoke) ===
+exit 0, no sanitizer report
